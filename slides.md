@@ -135,15 +135,16 @@ _Tests your product_
 An MVP is the simplest version of your product that solves your problem.
 :::
 
-## MVP shortcuts
-### Example *hacks*
+## An MVP is about cutting corners
+:::
+
+### MVP *hacks*
 :::
 - Send an email for an order instead of building an ecommerce platform
 - Build a simple webpage with an integrated "Buy" button <!-- .element: class="fragment" -->
 
 :::
-## MVP shortcuts
-### The web *toolbox*
+### MVP web *toolbox*
 :::
 ### Web Shops
 - Wordpress <!-- .element: class="fragment" -->
@@ -178,21 +179,27 @@ An MVP is the simplest version of your product that solves your problem.
 # Then realise you could've built that spaceship faster
 :::
 _Think_: What *one* platform will test my product on the market
+
+Because you probably don't need more than one. <!-- .element: class="fragment" -->
 :::
-Something else here about which platform is usually a good choice
+
+## We like web 🌏
+- Fast to develop <!-- .element: class="fragment" -->
+- Fast to deploy ⚠️ <!-- .element: class="fragment" -->
+- Fast to update and iterate <!-- .element: class="fragment" -->
+- All devices have a browser <!-- .element: class="fragment" -->
+- Heaps of resources to draw from <!-- .element: class="fragment" -->
+
 :::
 _Ask yourself:_ Does my minimum product provide a platform where I can validate my hypothesis?
-
 :::
 
-## Why choose a
+🛑 <!-- .element: class="fragment" -->
 
-:::
+ _Remember:_ Your MVP is just a suggestion of a possible solution. This is your time to test and define the product you need to build. <!-- .element: class="fragment" -->
 
-🛑
- _Remember:_ Your MVP is just a suggestion of a possible solution. This is your time to test and define the product you need to build.  <!-- .element: class="fragment" -->
+👍 <!-- .element: class="fragment" -->
 
-👍
  _Ask yourself:_ Does this MVP suit the problem and market? <!-- .element: class="fragment" -->
 
 ---
@@ -201,8 +208,9 @@ _Ask yourself:_ Does my minimum product provide a platform where I can validate 
 _First product ready for market_
 
 :::
-The first version of a product is when you've grown and add extra stuff
+The first version is a product you can sell to your target market
 :::
+
 ---
 # Get to work
 
