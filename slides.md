@@ -161,7 +161,7 @@ An MVP is the simplest version of your product that solves your problem.
 # But sometimes that's not quite enough
 :::
 <!-- .slide: data-background="url('https://media.giphy.com/media/cSozWbWHEfUis/giphy.gif') no-repeat" data-background-size="cover" -->
-# But _it's_ an App
+# I _need_ an App
 :::
 ## Platforms
 - Web <!-- .element: class="fragment" -->
