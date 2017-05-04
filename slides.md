@@ -147,6 +147,11 @@ An MVP is the simplest version of your product that solves your problem.
 ### Service products (don't reinvent the wheel!)
 - Messenger/WhatsApp as a messaging platform <!-- .element: class="fragment" -->
 - Intercom <!-- .element: class="fragment" -->
+- fiverr.com <!-- .element: class="fragment" -->
+- Upwork.com <!-- .element: class="fragment" -->
+- 99designs.dk <!-- .element: class="fragment" -->
+- Google apps 
+- Microsoft Azure
 - more here <!-- .element: class="fragment" -->
 
 :::
@@ -202,3 +207,12 @@ The first version is a product you can sell to your target market
 # Get to work
 
 Get in groups of three and identify how your startup was affected by your one fuckup and one good tech choice.
+
+---
+# Where to go from here
+
+ASK grab us at the coffee machine shoot an email on hi@tinyrhino.dk
+
+Places to get inspiration:
+ * https://www.producthunt.com/
+ * 
