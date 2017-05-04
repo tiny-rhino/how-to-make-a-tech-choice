@@ -25,17 +25,16 @@
 
 ---
 # Today's goals
-:::
-Understand tech "buzz-words" ⚠️
-:::
-Make "CTO" decisions
-:::
-Rapidly test & develop your idea
+- Understand tech "buzz-words" ⚠️ <!-- .element: class="fragment" -->
+- Make "CTO" decisions <!-- .element: class="fragment" -->
+- Rapidly test & develop your idea <!-- .element: class="fragment" -->
 
 ---
 # Workshop
 :::
 <!-- .slide: data-background="url('https://media.giphy.com/media/EMTQ0Y4UgYzKM/giphy.gif') no-repeat" data-background-size="cover" -->
+## Oh shit, you actually have to do something
+
 :::
 Write down 2 things that impacted your startup:
 - One (good) tech choice <!-- .element: class="fragment" -->
@@ -43,8 +42,7 @@ Write down 2 things that impacted your startup:
 
 ---
 # Product stages ⚠️
-:::
-- Idea / concept
+- Idea / concept <!-- .element: class="fragment" -->
 - Pretotype <!-- .element: class="fragment" -->
 - Prototype <!-- .element: class="fragment" -->
 - Minimum Viable Product (MVP) <!-- .element: class="fragment" -->
@@ -52,13 +50,12 @@ Write down 2 things that impacted your startup:
 
 :::
 ## Why do we use product stages?
-
 - Time to market <!-- .element: class="fragment" -->
 - Money (or lack thereof 💸) <!-- .element: class="fragment" -->
-- Resources (few people got lots done - fast 🏃) <!-- .element: class="fragment" -->
-- Defines a product that solves a specific problem <!-- .element: class="fragment" -->
-- Prevents building a 🚀 before building a 🚲 first <!-- .element: class="fragment" -->
-- Helps make good tech & product decisions <!-- .element: class="fragment" -->
+- Resources (few people to get lots done - fast 🏃) <!-- .element: class="fragment" -->
+- Derives a product that solves a specific problem <!-- .element: class="fragment" -->
+- Prevents building a 🚀 before first building a 🚲 <!-- .element: class="fragment" -->
+- Assists making good tech decisions <!-- .element: class="fragment" -->
 - Enables rapid development <!-- .element: class="fragment" -->
 
 ---
@@ -99,13 +96,12 @@ _Create and validate your hypothesis_ <!-- .element: class="fragment" -->
 
 :::
 ## Tools 💆‍♂️🙋‍♂️
-
 - Typeform <!-- .element: class="fragment" -->
 - Facebook poll <!-- .element: class="fragment" -->
 - ASK REAL PEOPLE 👋 <!-- .element: class="fragment" -->
 
 :::
-_Ask yourself:_ Are you solving the problem you intended?
+_Ask yourself:_ Is your audience engaging with your concept?
 
 ---
 # Prototype
@@ -115,16 +111,17 @@ _Tests your solution_
 :::
 A prototype is a _thing_ you can interact with that demonstrates your solution.
 :::
+_Think:_ What technology do I need to solve this problem?
+:::
 
 ## Tools
 - Squarespace / WIX <!-- .element: class="fragment" -->
+- Google forms <!-- .element: class="fragment" -->
+- Keynote <!-- .element: class="fragment" -->
 - Static sites <!-- .element: class="fragment" -->
 - 3D printing <!-- .element: class="fragment" -->
 - Wordpress <!-- .element: class="fragment" -->
 - InvisionApp <!-- .element: class="fragment" -->
-
-:::
-_Think:_ What technology do I need to solve this problem?
 
 ---
 # Minimum Viable Product (MVP)
@@ -135,23 +132,19 @@ _Tests your product_
 An MVP is the simplest version of your product that solves your problem.
 :::
 
-## An MVP is about cutting corners
-:::
-
 ### MVP *hacks*
-:::
-- Send an email for an order instead of building an ecommerce platform
+- Send an email for an order instead of building an ecommerce platform <!-- .element: class="fragment" -->
 - Build a simple webpage with an integrated "Buy" button <!-- .element: class="fragment" -->
+-
 
 :::
-### MVP web *toolbox*
-:::
+### MVP *toolbox*
 ### Web Shops
 - Wordpress <!-- .element: class="fragment" -->
 - Magento <!-- .element: class="fragment" -->
 - Shopify <!-- .element: class="fragment" -->
 :::
-### Use service products (don't reinvent the wheel!)
+### Service products (don't reinvent the wheel!)
 - Messenger/WhatsApp as a messaging platform <!-- .element: class="fragment" -->
 - Intercom <!-- .element: class="fragment" -->
 - more here <!-- .element: class="fragment" -->
@@ -172,7 +165,7 @@ An MVP is the simplest version of your product that solves your problem.
 - Responsive API SAAS progressively native in the cloud ⚠️⚠️⚠️ <!-- .element: class="fragment" -->
 
 :::
-<!-- .slide: data-background="url('https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif') no-repeat" data-background-size="cover" -->
+<!-- .slide: data-background="url('https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif') no-repeat" data-background-size="cover" -->
 # You get all excited
 :::
 <!-- .slide: data-background="url('https://media.giphy.com/media/llZ2R6hwJVxWE/giphy.gif') no-repeat" data-background-size="cover" -->
@@ -186,21 +179,14 @@ Because you probably don't need more than one. <!-- .element: class="fragment" -
 ## We like web 🌏
 - Fast to develop <!-- .element: class="fragment" -->
 - Fast to deploy ⚠️ <!-- .element: class="fragment" -->
-- Fast to update and iterate <!-- .element: class="fragment" -->
+- Fast to update and iterate (⏫ features) <!-- .element: class="fragment" -->
 - All devices have a browser <!-- .element: class="fragment" -->
 - Heaps of resources to draw from <!-- .element: class="fragment" -->
-
-:::
-_Ask yourself:_ Does my minimum product provide a platform where I can validate my hypothesis?
 :::
 
-🛑 <!-- .element: class="fragment" -->
+_Remember:_ Your MVP is just a suggestion of a possible solution. This is your time to test and define the product you need to build. <!-- .element: class="fragment" -->
 
- _Remember:_ Your MVP is just a suggestion of a possible solution. This is your time to test and define the product you need to build. <!-- .element: class="fragment" -->
-
-👍 <!-- .element: class="fragment" -->
-
- _Ask yourself:_ Does this MVP suit the problem and market? <!-- .element: class="fragment" -->
+_Ask yourself:_ Does my MVP enable me to validate my hypothesis? <!-- .element: class="fragment" -->
 
 ---
 # First version
@@ -210,6 +196,7 @@ _First product ready for market_
 :::
 The first version is a product you can sell to your target market
 :::
+
 
 ---
 # Get to work
