@@ -4,7 +4,7 @@
 ---
 # Agenda
 - Who are we?
-- Toady's goals
+- Today's goals
 - Product phases
 - Workshop
 - Q&A / Discussion
