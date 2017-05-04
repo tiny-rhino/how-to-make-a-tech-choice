@@ -2,6 +2,14 @@
 ![Tiny Rhino](https://tinyrhino.dk/static/img/rhino_logo.png)
 
 ---
+# Agenda
+- Who are we?
+- Toady's goals
+- Product phases
+- Workshop
+- Q&A / Discussion
+
+---
 # Who are we...
 
 :::
@@ -38,10 +46,10 @@
 :::
 Write down 2 things that impacted your startup:
 - One (good) tech choice <!-- .element: class="fragment" -->
-- One fuckup <!-- .element: class="fragment" -->
+- One screw up <!-- .element: class="fragment" -->
 
 ---
-# Product stages ⚠️
+# Product phases ⚠️
 - Idea / concept <!-- .element: class="fragment" -->
 - Pretotype <!-- .element: class="fragment" -->
 - Prototype <!-- .element: class="fragment" -->
@@ -49,7 +57,7 @@ Write down 2 things that impacted your startup:
 - First version <!-- .element: class="fragment" -->
 
 :::
-## Why do we use product stages?
+## Why do we use product phases?
 - Time to market <!-- .element: class="fragment" -->
 - Money (or lack thereof 💸) <!-- .element: class="fragment" -->
 - Resources (few people to get lots done - fast 🏃) <!-- .element: class="fragment" -->
@@ -72,14 +80,20 @@ What colour should your spaceship be? <!-- .element: class="fragment" -->
 
 :::
 🍷🍻
-- Napkin idea <!-- .element: class="fragment" -->
-- Prove your concept <!-- .element: class="fragment" -->
-- Think about flying to moon 🚀 <!-- .element: class="fragment" -->
+- Napkin idea
+- Prove your concept
+- Think about flying to moon 🚀
+
+:::
+## Tech Hack - _Know your market_
+- Google Trends
+- Producthunt.com
+- *USE* and understand your competitors tech
 
 :::
 _Ask yourself:_ Are you solving a specific problem?
 
-(or are you building a spaceship 😆) <!-- .element: class="fragment" -->
+(or are you building a spaceship 😆)
 
 ---
 # Pretotype
@@ -91,14 +105,16 @@ Pretotyping is using simple tools to collect preliminary data.
 
 _Create and validate your hypothesis_ <!-- .element: class="fragment" -->
 :::
+👨‍👨‍👧‍👧
 - Is there a market for my product?
 - Who would use this product?
 
 :::
-## Tools 💆‍♂️🙋‍♂️
-- Typeform <!-- .element: class="fragment" -->
-- Facebook poll <!-- .element: class="fragment" -->
-- ASK REAL PEOPLE 👋 <!-- .element: class="fragment" -->
+## Tech Hack 💆‍♂️🙋‍♂️
+- Typeform
+- Facebook poll
+- WIX landing page
+- ASK REAL PEOPLE 👋
 
 :::
 _Ask yourself:_ Is your audience engaging with your concept?
@@ -110,18 +126,29 @@ _Tests your solution_
 
 :::
 A prototype is a _thing_ you can interact with that demonstrates your solution.
-:::
+
 _Think:_ What technology do I need to solve this problem?
 :::
 
-## Tools
-- Squarespace / WIX <!-- .element: class="fragment" -->
-- Google forms <!-- .element: class="fragment" -->
-- Keynote <!-- .element: class="fragment" -->
-- Static sites <!-- .element: class="fragment" -->
-- 3D printing <!-- .element: class="fragment" -->
-- Wordpress <!-- .element: class="fragment" -->
-- InvisionApp <!-- .element: class="fragment" -->
+## Tech Hacks
+- Squarespace / WIX
+- Embed Google forms
+- InvisionApp
+- GitHub pages
+- POP - Prototyping on Paper (App)
+- Keynote
+- Static sites ⚠️
+- 3D printing
+- Wordpress
+
+:::
+# DEMO
+:::
+<!-- .slide: data-background-iframe="https://tiny-rhino.gitlab.io/ahc-prototype/" data-background-size="cover" data-background="#fff" -->
+:::
+_Think:_ Should you throw your implementation in the bin?
+
+_Ask yourself:_ Should you throw your *idea* in the bin?
 
 ---
 # Minimum Viable Product (MVP)
@@ -132,27 +159,27 @@ _Tests your product_
 An MVP is the simplest version of your product that solves your problem.
 :::
 
-### MVP *hacks*
-- Send an email for an order instead of building an ecommerce platform <!-- .element: class="fragment" -->
-- Build a simple webpage with an integrated "Buy" button <!-- .element: class="fragment" -->
--
+## MVP corner cutters
+- Draw inspiration from (copy 😉) market leaders
+- Send an email for an order instead of building an ecommerce platform
+- Build a simple webpage with an integrated "Buy" button
+- Settle for less (🚲 not 🚀)
 
 :::
-### MVP *toolbox*
-### Web Shops
-- Wordpress <!-- .element: class="fragment" -->
-- Magento <!-- .element: class="fragment" -->
-- Shopify <!-- .element: class="fragment" -->
+## Web Shops Toolbox
+- Wordpress
+- Magento
+- Shopify
+
 :::
-### Service products (don't reinvent the wheel!)
-- Messenger/WhatsApp as a messaging platform <!-- .element: class="fragment" -->
-- Intercom <!-- .element: class="fragment" -->
-- fiverr.com <!-- .element: class="fragment" -->
-- Upwork.com <!-- .element: class="fragment" -->
-- 99designs.dk <!-- .element: class="fragment" -->
-- Google apps 
+## Service products (don't reinvent the wheel!)
+- Messenger/WhatsApp as a messaging platform
+- Intercom
+- fiverr.com
+- Upwork.com
+- 99designs.dk
+- Google apps + Analytics
 - Microsoft Azure
-- more here <!-- .element: class="fragment" -->
 
 :::
 <!-- .slide: data-background="url('https://media.giphy.com/media/a5viI92PAF89q/giphy.gif') no-repeat" data-background-size="cover" -->
@@ -164,7 +191,7 @@ An MVP is the simplest version of your product that solves your problem.
 ## Platforms
 - Web <!-- .element: class="fragment" -->
 - Native App ⚠️ <!-- .element: class="fragment" -->
-- Responsive (progressive) web app ⚠️ <!-- .element: class="fragment" -->
+- Responsive web app ⚠️ <!-- .element: class="fragment" -->
 - API ⚠️ <!-- .element: class="fragment" -->
 - SAAS ⚠️ <!-- .element: class="fragment" -->
 - Responsive API SAAS progressively native in the cloud ⚠️⚠️⚠️ <!-- .element: class="fragment" -->
@@ -178,41 +205,75 @@ An MVP is the simplest version of your product that solves your problem.
 :::
 _Think_: What *one* platform will test my product on the market
 
-Because you probably don't need more than one. <!-- .element: class="fragment" -->
+Because you probably don't need more than one.
 :::
 
 ## We like web 🌏
-- Fast to develop <!-- .element: class="fragment" -->
-- Fast to deploy ⚠️ <!-- .element: class="fragment" -->
-- Fast to update and iterate (⏫ features) <!-- .element: class="fragment" -->
-- All devices have a browser <!-- .element: class="fragment" -->
-- Heaps of resources to draw from <!-- .element: class="fragment" -->
+- Fast to develop
+- Fast to deploy ⚠️
+- Fast to update and iterate (⏫ features)
+- All devices have a browser
+- Heaps of resources to draw from
 :::
 
-_Remember:_ Your MVP is just a suggestion of a possible solution. This is your time to test and define the product you need to build. <!-- .element: class="fragment" -->
+_Remember:_ Your MVP is just a suggestion of a possible solution. This is your time to test and define the product you need to build.
 
-_Ask yourself:_ Does my MVP enable me to validate my hypothesis? <!-- .element: class="fragment" -->
+_Ask yourself:_ Does my MVP enable me to validate my hypothesis?
 
 ---
 # First version
 
-_First product ready for market_
+_The child of your MVP iterations_
 
 :::
-The first version is a product you can sell to your target market
+The first version is a product you can sell to your market
 :::
+## Tech Hack
+- Implement tech that gives your product the edge
+- Hire CTO / developer
+- Choose a stack ⚠️
+- 🚶 > 🛴 > 🚲 > 🚗 > 🚀
 
+_Remember:_ This isn't necessarily your final product. You will iterate and improve based on learnings.
+
+:::
+## ⚠️ Tech Considerations ⚠️
+- Hosting
+- Security
+- Privacy
+- Programming language
+- Framework
+- Database
+
+:::
+## Tech Hacks
+- Azure/AWS - free hosting
+- Let's Encrypt - free SSL certificate
+- MailJet - free newsletter sending [up to 20.000]
+- Zoho - free email hosting for your domain
+- GitLab/GitHub pages - free static sites
+
+:::
+_Ask yourself:_ Are your tech choices scaleable? Are you ready for success?
+
+_Remember:_ If you crash, it will cost you. Both 💰 and 😎.
 
 ---
 # Get to work
 
-Get in groups of three and identify how your startup was affected by your one fuckup and one good tech choice.
+Get in groups and identify how your startup was affected by your one screw up and one good tech choice.
+
+- Maybe you iterated on your prototype?
+- Maybe you built a 🚀 before picking up a pencil
+- Maybe you wasted a week on a feature you didn't need?
+- Maybe you could've used a $5 service instead of building your own product?
 
 ---
 # Where to go from here
 
-ASK grab us at the coffee machine shoot an email on hi@tinyrhino.dk
+- *ASK* - grab us at the coffee machine or shoot an email to hi@tinyrhino.dk
 
 Places to get inspiration:
- * https://www.producthunt.com/
- * 
+ * producthunt.com
+ * Tech meetups in Copenhagen [meetup.com]
+ * Hire devs looking for startups [thehub.dk, ...]
