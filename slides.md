@@ -229,7 +229,7 @@ _The child of your MVP iterations_
 The first version is a product you can sell to your market
 
 :::
-## Tech Consideraitons
+## Tech TODOs 🔥🚒
 - Implement tech that gives your product the edge
 - Hire CTO / developer
 - Choose a stack ⚠️
@@ -257,7 +257,7 @@ _Remember:_ This isn't necessarily your final product. You will iterate and impr
 :::
 _Ask yourself:_ Are your tech choices scaleable? Are you ready for success?
 
-_Remember:_ If you crash, it will cost you. Both 💰 and 😎.
+_Remember:_ If you crash, it will cost you! Both 💰 and 😎
 
 ---
 # Get to work
