@@ -278,3 +278,7 @@ Places to get inspiration:
  * Social platform for products [producthunt.com]
  * Tech meetups in Copenhagen [meetup.com]
  * Hire devs looking for startups [thehub.dk, ...]
+
+Slides at:
+
+_tiny-rhino.github.io/how-to-make-a-tech-choice/ _
