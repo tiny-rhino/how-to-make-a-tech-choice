@@ -74,9 +74,9 @@ _Wants vs needs_
 :::
 What do you need to solve your problem?
 
-*vs.* <!-- .element: class="fragment" -->  
+*vs.*
 
-What colour should your spaceship be? <!-- .element: class="fragment" -->
+What colour should your spaceship be?
 
 :::
 🍷🍻
@@ -227,8 +227,9 @@ _The child of your MVP iterations_
 
 :::
 The first version is a product you can sell to your market
+
 :::
-## Tech Hack
+## Tech Consideraitons
 - Implement tech that gives your product the edge
 - Hire CTO / developer
 - Choose a stack ⚠️
@@ -269,11 +270,11 @@ Get in groups and identify how your startup was affected by your one screw up an
 - Maybe you could've used a $5 service instead of building your own product?
 
 ---
-# Where to go from here
+# Where to get help
 
-- *ASK* - grab us at the coffee machine or shoot an email to hi@tinyrhino.dk
+Grab us at the coffee machine *OR* shoot an email to *hi@tinyrhino.dk*
 
 Places to get inspiration:
- * producthunt.com
+ * Social platform for products [producthunt.com]
  * Tech meetups in Copenhagen [meetup.com]
  * Hire devs looking for startups [thehub.dk, ...]
